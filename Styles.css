@@ -1,0 +1,279 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+.zero {
+  width: 95vw;
+  margin: 0 17px;
+  text-align: center;
+  display: inline-block;
+}
+
+.first {
+  background: yellow;
+font-family: 'Roboto', sans-serif;
+font-weight: 500;
+color: #484848;
+  text-transform: uppercase;
+  font-size: 1.9vw;
+  height: 3.2vw;
+padding-top: 0.9vw;
+
+}
+
+.second {
+  background: #484848;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 500;
+}
+
+li {
+  display: inline-block;
+  font-size: 1.1vw;
+  padding: 0.9vw 1.2vw;
+}
+
+.four {
+  width: 13.5vw;
+  height: 13.5vw;
+  margin-left: 65vw;
+  margin-top: 2.3vw;
+  margin-bottom: 2.3vw;
+  margin-right: 1vw;
+  position: absolute;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+  margin: 5px 20px;
+
+}
+
+.third {
+  background-image: url("talking_heads-speaking_in_tongues3.png");
+  background-size: 95vw;
+  padding-right: 8vw;
+  background-repeat: no-repeat;
+  position: relative;
+  margin: 0 17px;
+
+      height: 18vw;
+      display: inline-block;
+  font-size: 1.4vw;
+}
+
+.five {
+  background: rgba(16, 16, 16, 0.8);
+  height: 18vw;
+  width: 80vw;
+  margin-left: 7.4vw;
+
+}
+
+.six {
+  padding-left: 2vw;
+
+  display: inline-block;
+  position: absolute;
+  text-transform: uppercase;
+}
+
+#five {
+  color: yellow;
+font-family: 'Roboto', sans-serif;
+  font-size: 2.5vw;
+  margin-top: 3.5vw;
+}
+
+#six {
+  color: white;
+
+  font-size: 2vw;
+  font-weight: 400;
+  font-family: 'Oswald', sans-serif;
+  margin-top: -10px;
+
+}
+
+#seven {
+  color: #E7E6DD;
+  font-family: 'Roboto', sans-serif;
+
+font-weight: 500;
+  padding-top: 0.7vw;
+  margin-top: 0.8vw;
+  font-size: 1.4vw;
+
+}
+
+/*right box*/
+.alpha{
+display: inline-block;
+ background: yellow;
+padding: 1.2vw 13.25vw 1.2vw 1.8vw;
+font-size: 1.9vw;
+font-weight: 300;
+color: #484848;
+font-family: 'Oswald', sans-serif;
+
+ text-transform: uppercase;
+}
+.gamma{
+padding: 1.5vw;
+display: inline-block;
+
+}
+.ray{
+  border-top: 3px solid white;
+  padding-top: 2vw;
+  width: 23.7vw;
+  height: 17vw;
+}
+.oneT{
+  width: 27vw;
+  float: right;
+  margin-top: 1.7vw;
+  margin-right: 12vw;
+
+  display: inline-block;
+  clear: left;
+
+}
+.rfour{
+  background: rgba(30,30,30,0.8);
+  color: white;
+
+}
+.rone{
+font-size: 1.2vw;
+padding: 1.5vw 2.1vw 2vw 2vw;
+font-family: 'Roboto', sans-serif;
+font-weight: 400;
+}
+#rtwo{
+  padding: 1.5vw 2.4vw 1.5vw 4.1vw;
+  font-size: 1.2vw;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 400;
+}
+
+#qwe{
+  font-size: 0.8vw;            /*     ???????????????? */
+  color: yellow;
+  font-size: 0.75vw;
+margin-left: 0;
+}
+
+
+/* left box*/
+
+
+.vertline1{
+
+  height: 14.5vw;
+  width: 30vw;
+  border-left: solid yellow 0.4vw;
+  padding-left: 1.1vw;
+  padding-top: 1.1vw;
+  padding-right: 1.1vw;
+    font-size: 1.5vw;
+}
+.vertline2{
+  height: 11vw;
+  border-left: solid yellow 0.4vw;
+  padding-left: 1.1vw;
+  padding-top: 1.1vw;
+width:32vw;
+    font-size: 1.5vw;
+}
+.vertline3{
+
+  height: 15vw;
+  border-left: solid yellow 0.4vw;
+  padding-left: 1.1vw;
+  padding-top: 1.1vw;
+  width: 33vw;
+  padding-right: 1.1vw;
+    font-size: 1.5vw;
+}
+.vertline4{
+
+  height: 18vw;
+  border-left: solid yellow 0.4vw;
+width: 36vw;
+padding-left: 1vw;
+padding-top: 1vw;
+    font-size: 1.5vw;
+}
+
+.haha1{
+  background: yellow;
+  text-transform: uppercase;
+  font-weight: 400;
+  font-family: 'Oswald', sans-serif;
+width: 9vw;
+font-size: 1.7vw;
+padding: 1vw 1vw 1vw 1.5vw;
+}
+.haha{
+font-family: 'Roboto', sans-serif;
+font-weight: 400;
+  width: 35vw;
+  margin: 1.5vw 10vw;
+  padding-bottom: 3.5vw;
+
+}
+.iaia{
+font-family: 'Roboto', sans-serif;
+font-weight: 400;
+  width: 35vw;
+  margin: 1.5vw 14vw;
+  padding-bottom: 3.5vw;
+
+
+}
+.jaja{
+font-family: 'Roboto', sans-serif;
+font-weight: 400;
+  width: 36vw;
+    margin: 1.5vw 10vw;
+  padding-bottom: 3.5vw;
+}
+.kaka{
+font-family: 'Roboto', sans-serif;
+font-weight: 400;
+  width: 35vw;
+  margin: 1.5vw 14vw;
+padding-bottom: 5.5vw;
+}
+#cite1{
+padding-bottom: 5vw;
+margin-bottom: 5vw;
+}
+#last{
+  margin-top: 1vw;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 400;
+  width: 100vw;
+
+}
+#lastest{
+  background: yellow;
+  color: black;
+  font-size: 1vw;
+padding: 0.3vw;
+margin-left: 0;
+
+}
+
+.nana{
+
+  border-top: solid yellow 5px;
+  width: 80vw;
+  margin-left: 7vw;
+font-size: 1vw;
+padding-right: 5vw;
+
+margin-bottom: 5vw;
+}
